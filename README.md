@@ -1,6 +1,8 @@
-# PallyCon Wowza CPIX Module
+# PallyCon Wowza DRM Plugin
 
-PallyCon Wowza Integration SDK is an extension module of Wowza Streaming Engine that supports streaming service with DASH (CENC) and HLS (FPS) content by packaging original MP4 video or live stream in real time.
+PallyCon Wowza DRM Plugin is an extension module of Wowza Streaming Engine that supports streaming service with DASH (CENC) and HLS (FPS) content by packaging original MP4 video or live stream in real time.
+
+The plugin is implemented using Content Protection Information Exchange Format (CPIX) API.
 
 ## Included modules and versions
 
@@ -16,4 +18,4 @@ Please refer to [the online guide](https://pallycon.com/docs/en/multidrm/packagi
 
 https://pallycon.com | obiz@inka.co.kr
 
-Copyright 2021 INKA Entworks. All Rights Reserved.
+Copyright 2023 INKA Entworks. All Rights Reserved.
