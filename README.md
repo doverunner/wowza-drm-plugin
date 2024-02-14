@@ -6,9 +6,9 @@ The plugin is implemented using Content Protection Information Exchange Format (
 
 ## Included modules and versions
 
-- pallycon-cpix-client-java-1.1.0.jar
-- pallycon-wowza-cpix-2.0.0.jar
-- pallycon-wowza-cpix-ncg-2.0.0.jar
+- pallycon-cpix-client-java-1.2.0.jar
+- pallycon-wowza-cpix-2.1.0.jar
+- pallycon-wowza-cpix-ncg-2.1.0.jar
 
 ## Guide document
 
