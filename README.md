@@ -6,10 +6,10 @@ The plugin is implemented using Content Protection Information Exchange Format (
 
 ## Included modules and versions
 
-- pallycon-cpix-client-java-1.5.0.jar
-- pallycon-wowza-cpix-2.3.0.jar
-- pallycon-wowza-cpix-ncg-2.3.0.jar
-- pallycon-wowza-cpix-clearkey-1.0.1.jar
+- doverunner-cpix-client-1.5.0.jar
+- doverunner-wowza-cpix-multidrm-2.4.0.jar
+- doverunner-wowza-cpix-ncg-2.4.0.jar
+- doverunner-wowza-cpix-clearkey-1.1.0.jar
 
 ## Guide document
 
