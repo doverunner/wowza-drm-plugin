@@ -4,6 +4,11 @@ DoveRunner Wowza DRM Plugin is an extension module of Wowza Streaming Engine tha
 
 The plugin is implemented using Content Protection Information Exchange Format (CPIX) API.
 
+## Requirements
+
+- Wowza Streaming Engine: 4.9.1 or later
+- JAVA version : JDK 17 or later
+
 ## Included modules and versions
 
 - doverunner-cpix-client-1.6.0-jar-with-dependencies.jar
