@@ -4,6 +4,11 @@ PallyCon Wowza DRM Plugin is an extension module of Wowza Streaming Engine that 
 
 The plugin is implemented using Content Protection Information Exchange Format (CPIX) API.
 
+## Requirements
+
+- Wowza Streaming Engine: 4.8.21
+- JAVA version : JDK 11
+
 ## Included modules and versions
 
 - pallycon-cpix-client-java-1.2.0.jar
