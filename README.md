@@ -6,14 +6,14 @@ The plugin is implemented using Content Protection Information Exchange Format (
 
 ## Included modules and versions
 
-- doverunner-cpix-client-1.5.0.jar
+- doverunner-cpix-client-1.6.0-jar-with-dependencies.jar
 - doverunner-wowza-cpix-multidrm-2.4.0.jar
 - doverunner-wowza-cpix-ncg-2.4.0.jar
 - doverunner-wowza-cpix-clearkey-1.1.0.jar
 
 ## Guide document
 
-Please refer to [the online guide](https://doverunner.com/docs/en/multidrm/packaging/wowza-integration/).
+Please refer to [the online guide](https://doverunner.com/docs/content-security/multi-drm/packaging/wowza-integration/).
 
 ***
 
